@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nobita25
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Laravel and VueJs
 
 <!---
 Nobita25/Nobita25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

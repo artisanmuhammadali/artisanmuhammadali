@@ -1,7 +1,7 @@
 [![MasterHead](https://devtechnosys.com/insights/wp-content/uploads/2022/04/laravel-framework.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
 <h3 align="center">Web Developer</h3>
-<img width="400" align="right" src="https://speed.cy/wp-content/uploads/2022/08/web-developmen-seo.gif" alt='code' />
+<img width="400" align="right" src="https://devtechnosys.com/insights/wp-content/uploads/2022/10/Software-Developers.gif" alt='code' />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alibinsarwar&label=Profile%20views&color=0e75b6&style=flat" alt="alibinsarwar" /> </p>
 

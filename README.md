@@ -15,6 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="edin.com/in/muhammad-ali25/" target="_blank" rel="noreferrer"> <img src="/img/linkdin.png" alt="linkdin" width="40" height="40"/> </a>
+<a href="https://www.instagram.com/artisan_.ali/" target="_blank" rel="noreferrer"> <img src="/img/instagram.jpeg" alt="instagram" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

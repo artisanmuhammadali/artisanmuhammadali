@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://devtechnosys.com/insights/wp-content/uploads/2022/04/laravel-framework.png" alt="laravel-framework" height="300"  width="700"/> </p>
 <img width="400" align="right" src="https://devtechnosys.com/insights/wp-content/uploads/2022/10/Software-Developers.gif" alt='code' />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=artisanmuhammadali&label=Profile%20views&color=0e75b6&style=flat" alt="artisanmuhammadali" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=artisanmuhammadali&label=Profile%20views&color=0e75b6&style=flat" alt="artisanmuhammadali" height="270" /> </p>
 
 - 🙋‍♂️ All about me is at **[My Website](https://artisanmuhammadali.github.io/portfolio/)**
 

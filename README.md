@@ -39,9 +39,7 @@
 </p>
 
 ## 📊 My GitHub Data:
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artisanmuhammadali&show_icons=true&locale=en&layout=compact" alt="artisanmuhammadali" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=artisanmuhammadali&show_icons=true&locale=en" alt="artisanmuhammadali" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=artisanmuhammadali&" alt="artisanmuhammadali" /></p>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=artisanmuhammadali&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=artisanmuhammadali&" alt="soumyajit" />
+</div>

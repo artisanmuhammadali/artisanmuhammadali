@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali Bin Sarwar</h1>
-<p align="center"> <img src="https://devtechnosys.com/insights/wp-content/uploads/2022/04/laravel-framework.png" alt="laravel-framework" height="200px" /> </p>
+<p align="center"> <img src="https://devtechnosys.com/insights/wp-content/uploads/2022/04/laravel-framework.png" alt="laravel-framework" height="400"  width="800"/> </p>
 <img width="400" align="right" src="https://devtechnosys.com/insights/wp-content/uploads/2022/10/Software-Developers.gif" alt='code' />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artisanmuhammadali&label=Profile%20views&color=0e75b6&style=flat" alt="artisanmuhammadali" /> </p>

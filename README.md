@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali Bin Sarwar</h1>
-<p align="center"> <img src="https://devtechnosys.com/insights/wp-content/uploads/2022/04/laravel-framework.png" alt="laravel-framework" /> </p>
+<p align="center"> <img src="https://devtechnosys.com/insights/wp-content/uploads/2022/04/laravel-framework.png" alt="laravel-framework" height="200px" /> </p>
 <img width="400" align="right" src="https://devtechnosys.com/insights/wp-content/uploads/2022/10/Software-Developers.gif" alt='code' />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artisanmuhammadali&label=Profile%20views&color=0e75b6&style=flat" alt="artisanmuhammadali" /> </p>
@@ -35,7 +35,7 @@
 </p>
 
 ## ❤️ Let's get connected:
-<p align="left"><a href="https://artisanmuhammadali.github.io/portfolio/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Muhammad_Ali-fe9917?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://www.linkedin.com/in/artisan-muhammad-ali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/artisan_.ali/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+<p align="left"><a href="https://artisanmuhammadali.github.io/portfolio/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Muhammad_Ali-blue?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://www.linkedin.com/in/artisan-muhammad-ali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/artisan_.ali/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
 ## 📊 My GitHub Data:

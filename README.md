@@ -1,28 +1,44 @@
+<h1 align="center">Hi 👋, I'm Muhammad Ali Bin Sarwar</h1>
 [![MasterHead](https://devtechnosys.com/insights/wp-content/uploads/2022/04/laravel-framework.png)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
-<h3 align="center">Web Artisan</h3>
 <img width="400" align="right" src="https://devtechnosys.com/insights/wp-content/uploads/2022/10/Software-Developers.gif" alt='code' />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alibinsarwar&label=Profile%20views&color=0e75b6&style=flat" alt="alibinsarwar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=artisanmuhammadali&label=Profile%20views&color=0e75b6&style=flat" alt="artisanmuhammadali" /> </p>
 
-- 🔭 I’m currently working on **Laravel**
+- 🙋‍♂️ All about me is at **[My Website](https://artisanmuhammadali.github.io/portfolio/)**
+
+- 🔭 I’m currently working on **Something Intresting**
 
 - 🌱 I’m currently learning **Vue.js**
 
 - 💬 Ask me about **LARAVEL**
 
-- 📫 How to reach me **artisanmuhammadali@gmail.com**
+- 👯 I’m looking to collaborate for `Dev Projects`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/muhammad-ali25/" target="_blank" rel="noreferrer"> <img src="/img/linkdin.png" alt="linkdin" width="40" height="40"/> </a>
-<a href="https://www.instagram.com/artisan_.ali/" target="_blank" rel="noreferrer"> <img src="/img/instagram.jpeg" alt="instagram" width="40" height="40"/> </a>
+## 🛠️ Technologies and Tools I use:
+
+<p>
+<img alt="Php" src="https://img.shields.io/badge/Php-00599C?style=for-the-badge&logo=Php&logoColor=white" height="25px"/>
+<img alt="Laravel" src="https://img.shields.io/badge/Laravel-20232A?style=for-the-badge&logo=Laravel&logoColor=red" height="25px"/>
+<img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
+<img alt="MySql" src="https://img.shields.io/badge/-MySql-orange?style=flat-square&logo=MySql&logoColor=blue"  height="25px"/>
+<img alt="Vue.js" src="https://img.shields.io/badge/vue-black?style=for-the-badge&logo=vue.js&logoColor=42b883" height="25px"/>
+<img alt="Pinia" src="https://img.shields.io/badge/Pinia-f7d336?style=for-the-badge&logo=pinia&logoColor=42b883" height="25px"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
+<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
+<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
+<img alt="github" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=github&logoColor=white" height="25px"/>
+<img alt="postman" src="https://img.shields.io/badge/-Postman-ff6c37?style=flat-square&logo=postman&logoColor=white" height="25px"/>
+<img alt="npm" src="https://img.shields.io/badge/NPM-c53635?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
+<img alt="ubuntu" src="https://img.shields.io/badge/-ubuntu-f47421?style=flat-square&logo=ubuntu&logoColor=white"  height="25px"/>
 </p>
 
+## ❤️ Let's get connected:
+<p align="left"><a href="https://artisanmuhammadali.github.io/portfolio/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Muhammad_Ali-blue?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://www.linkedin.com/in/artisan-muhammad-ali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/artisan_.ali/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+</p>
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </a>  </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 📊 My GitHub Data:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artisanmuhammadali&show_icons=true&locale=en&layout=compact" alt="artisanmuhammadali" /></p>
 

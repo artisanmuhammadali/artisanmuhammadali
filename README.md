@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artisanmuhammadali&label=Profile%20views&color=0e75b6&style=flat" alt="artisanmuhammadali" /> </p>
 
-- 🙋‍♂️ All about me is at **[My Website](https://artisanmuhammadali.github.io/portfolio/)**
+- 🙋‍♂️ All about me is at **[My Website](https://artisanmuhammadali.github.io)**
 
 - 🔭 I’m currently working on **Something Intresting**
 

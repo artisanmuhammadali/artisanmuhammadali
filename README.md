@@ -35,7 +35,7 @@
 </p>
 
 ## ❤️ Let's get connected:
-<p align="left"><a href="https://artisanmuhammadali.github.io/portfolio/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Muhammad_Ali-blue?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://www.linkedin.com/in/artisan-muhammad-ali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/artisan_.ali/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+<p align="left"><a href="https://artisanmuhammadali.github.io" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Muhammad_Ali-blue?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://www.linkedin.com/in/artisan-muhammad-ali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/artisan_.ali/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
 ## 📊 My GitHub Data:

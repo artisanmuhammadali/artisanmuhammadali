@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Something Intresting**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **LARAVEL**
 

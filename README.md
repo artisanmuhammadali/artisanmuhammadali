@@ -22,6 +22,7 @@
 <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="MySql" src="https://img.shields.io/badge/-MySql-orange?style=flat-square&logo=MySql&logoColor=blue"  height="25px"/>
+<img alt="MySql" src="https://img.shields.io/badge/-MongoDB?style=flat-square&logo=MongoDB&logoColor=green"  height="25px"/>
 <img alt="Vue.js" src="https://img.shields.io/badge/vue-black?style=for-the-badge&logo=vue.js&logoColor=42b883" height="25px"/>
 <img alt="Pinia" src="https://img.shields.io/badge/Pinia-f7d336?style=for-the-badge&logo=pinia&logoColor=42b883" height="25px"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>

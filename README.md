@@ -4,7 +4,7 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://artisanmuhammadali.github.io)**
 
-- 🔭 I’m currently debugging **backend mysteries like a full-stack detective**
+- 🔭 I’m currently debugging **backend mysteries**
 
 - 🌱 Leveling up in **Go and Cloud infrastructure**
 

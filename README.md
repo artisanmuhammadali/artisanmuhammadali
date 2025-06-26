@@ -4,11 +4,9 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://artisanmuhammadali.github.io)**
 
-- 🔭 I’m currently working on **Something Intresting**
+- 🔭 I’m currently debugging **backend mysteries like a full-stack detective**
 
-- 🌱 I’m currently learning **Go**
-
-- 💬 Ask me about **LARAVEL**
+- 🌱 Leveling up in **Go and Cloud infrastructure**
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
